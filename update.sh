@@ -19,3 +19,9 @@ cd zephyr-nvim && git pull && cd ..
 
 echo "update mutchar.nvim"
 cd mutchar.nvim && git pull && cd ..
+
+echo "update flipped.nvim"
+cd flipped.nvim && git pull && cd ..
+
+echo "update whiskyline.nvim"
+cd whiskyline.nvim && git pull && cd ..

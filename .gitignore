@@ -6,3 +6,6 @@
 /nvim-lspconfig/
 /template.nvim/
 /zephyr-nvim/
+/flipped.nvim/
+/whiskyline.nvim/
+/lua-language-server/
